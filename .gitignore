@@ -1,0 +1,5 @@
+.cloudflare-secrets
+CERTBOT_*
+.certbot/logs
+.certbot/work
+.certbot/config
